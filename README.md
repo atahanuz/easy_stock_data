@@ -3,7 +3,7 @@ Easy Stock Data: A free Android app for easily viewing extensive data on US and 
 
 https://play.google.com/store/apps/details?id=com.atahanuz.easy_stock_data
 
-Documentation and FAQ: https://medium.com/@atahanuz/easy-stock-data-0d01fc7c59c3
+Documentation and FAQ: https://medium.com/@atahanuz/easy-stock-data-0d01fc7c59c3 <br>
 Privacy Policy: https://sites.google.com/view/atahan-uz/easy-stock-data/privacy
 <br><br>
 
