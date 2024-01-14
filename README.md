@@ -4,6 +4,7 @@ Easy Stock Data: A free Android app for easily viewing extensive data on US and 
 https://play.google.com/store/apps/details?id=com.atahanuz.easy_stock_data
 
 Documentation and FAQ: https://medium.com/@atahanuz/easy-stock-data-0d01fc7c59c3
+Privacy Policy: https://sites.google.com/view/atahan-uz/easy-stock-data/privacy
 <br><br>
 
 
@@ -16,7 +17,7 @@ Documentation and FAQ: https://medium.com/@atahanuz/easy-stock-data-0d01fc7c59c3
 
 ## Contact
 For questions, feature requests and bug reports you can raise an Issue here and I will happily respond.
-You can also email me at atahanuz23@gmail.com but raising an Issue in this repo would be better as everone can see the discussion and GitHub issues send a notification to my phone.
+You can also email me at atahanuz23@gmail.com but raising an Issue in this repo would be better as everone would be able to see and contribute the discussion.
 <br><br><br>
 
 
